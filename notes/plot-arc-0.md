@@ -1,8 +1,10 @@
 This is the root level of the story outline. Every playthrough of Mikkamon has 4 episodes, and there are 11 possible episodes to encounter.
 
+
 #### 1 (a)
 
 1a: Mick gets shocked, and the characters get the hang of their Mikkamon for the first time. The police have to get involved because Mikkamon are absurdly powerful.
+
 
 #### 2 (abc)
 
@@ -11,6 +13,7 @@ This is the root level of the story outline. Every playthrough of Mikkamon has 4
 2b: Mick and friends encounter a few Mikkamon that appear to be alive, forming a society of their own. It turns out to be a hoax, much to Bruce's dismay.
 
 2c: Mick has been acting oddly since the accident. His friends decide to take him to visit a museum's video game exhibits, hoping to jog his memory. A museum heist interrupts their plans.
+
 
 #### 3 (abcd)
 
@@ -21,6 +24,7 @@ This is the root level of the story outline. Every playthrough of Mikkamon has 4
 3c: Mick has gained the favor of the Mikkamon company, and he's now a celebrity who must fight both the police and Bruce, who believes the Mikkamon franchise is heading in the wrong direction.
 
 3d: Mick's supernatural fourth-wall-breaking abilities have been revealed. Marty feels betrayed, and several other characters have their own significant reactions that cause people's social connections to undergo serious stress and reshaping. Mick must build a new circle of friends or passively follow someone else's plan for him.
+
 
 #### 4 (abc)
 
