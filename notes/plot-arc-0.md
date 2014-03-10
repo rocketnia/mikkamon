@@ -1,9 +1,10 @@
-1 (a)
+This is the root level of the story outline. Every playthrough of Mikkamon has 4 episodes, and there are 11 possible episodes to encounter.
+
+#### 1 (a)
 
 1a: Mick gets shocked, and the characters get the hang of their Mikkamon for the first time. The police have to get involved because Mikkamon are absurdly powerful.
 
-
-2 (abc)
+#### 2 (abc)
 
 2a: Mick and friends go to a tournament sponsored by the Mikkamon company. Some competitors are discovered to be using unofficial technology to cheat their way to the top.
 
@@ -11,8 +12,7 @@
 
 2c: Mick has been acting oddly since the accident. His friends decide to take him to visit a museum's video game exhibits, hoping to jog his memory. A museum heist interrupts their plans.
 
-
-3 (abcd)
+#### 3 (abcd)
 
 3a: Mick chose the side of technological freedom and is now an enemy of both the Mikkamon company and the police, and must find a way to protect himself and his friends.
 
@@ -22,8 +22,7 @@
 
 3d: Mick's supernatural fourth-wall-breaking abilities have been revealed. Marty feels betrayed, and several other characters have their own significant reactions that cause people's social connections to undergo serious stress and reshaping. Mick must build a new circle of friends or passively follow someone else's plan for him.
 
-
-4 (abc)
+#### 4 (abc)
 
 4a: Mick is now so deep into the Mikkamon company that he discovers the time-traveling secret of its origin. Future-Mick demands a battle to determine Mick's fate.
 
