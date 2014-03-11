@@ -1,4 +1,6 @@
-This is the root level of the story outline. Every playthrough of Mikkamon has 4 episodes, and there are 11 possible episodes to encounter.
+This is the root level of the story outline. Every playthrough of Mikkamon has 4 episodes, and it's possible to encounter 11 different episodes.
+
+Within each episode will be a similar branching structure, probably up to three levels deep, so the overall content-per-playthrough fraction is probably on the order of (4/11)^3 =~ 1/20.
 
 
 #### 1 (a)
@@ -27,9 +29,9 @@ This is the root level of the story outline. Every playthrough of Mikkamon has 4
 
 3a: Mick chose the side of technological freedom and is now an enemy of both the Mikkamon company and the police, and must find a way to protect himself and his friends.
 
-* Gag: TODO
+* Gag: Mick and friends unscrupulously steal whatever tech they need to make their stand. Marty is surprisingly resourceful in these conditions; apparently she's an action movie fan.
 
-3b: Mick has joined with the police, and future-Marty finds herself in an awkward conflict as she uses him to infiltrate the Mikkamon company.
+3b: Mick has joined with the police, led by future-Marty, who finds herself in an awkward conflict as she uses him to infiltrate the Mikkamon company.
 
 * Gag: Future-Marty keeps talking in Mick's ear saying surprising and hardly appropriate things.
 
@@ -46,11 +48,11 @@ This is the root level of the story outline. Every playthrough of Mikkamon has 4
 
 4a: Mick is now so deep into the Mikkamon company that he discovers the time-traveling secret of its origin. Future-Mick demands a battle to determine Mick's fate.
 
-* Gag: TODO
+* Gag: Future-Mick and Mick keep trying to insult or threaten each other, only for it to backfire on themselves. Marty and Bruce react to Future-Mick.
 
 4b: The Mikkamon company has buckled under pressure and closed up shop. But the closed shop reveals there was something mysterious about Mick's accident. As certain characters say goodbye, Mick and friends investigate the old scene of the crime.
 
-* Gag: TODO
+* Gag: The evidence they find all dances around the idea of interactive fiction. Specifically, future-Mick and future-Marty's time travel traced a knot through a fifth dimension. This created an energy potential that released as a static discharge, exchanging information with a being-outside-of-space-and-time.
 
 4c: Mick has abused his supernatural fourth-wall-breaking powers to become a near-invincible threat of his own. But future-Mick and future-Marty know enough to have built contingencies for both the technology and the supernatural, and it's just a matter of time before the player has to say goodbye to everyone.
 
