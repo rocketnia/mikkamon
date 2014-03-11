@@ -65,7 +65,7 @@ Within each episode will be a similar branching structure, probably up to three 
 1a - 2b: Early choice in episode 2.
 1a - 2c: Forced if Mick shows odd behavior to Marty or Bruce.
 
-All of these are forced depending on Mick's episode 2 behavior.
+All of these are forced depending on Mick's episode 2 behavior. (Each episode 2 has a battle Mick can take sides on.)
 2a - 3a
 2a - 3b
 2a - 3c
@@ -86,7 +86,7 @@ All of these are forced depending on Mick's episode 2 behavior.
 3b - 4b
 3b - 4c
 3c - 4a: Forced if Mick does a good job defending the Mikkamon company.
-3c - 4b: Forced if Mick does a bad job defending the Mikkamon company.
+3c - 4b: Forced if Mick does a poor job defending the Mikkamon company.
 3c - 4c: Forced if Mick abuses his fourth-wall-breaking powers while commanding his cronies.
 3d - 4a
 3d - 4b: Impossible.
