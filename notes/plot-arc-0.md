@@ -57,3 +57,37 @@ Within each episode will be a similar branching structure, probably up to three 
 4c: Mick has abused his supernatural fourth-wall-breaking powers to become a near-invincible threat of his own. But future-Mick and future-Marty know enough to have built contingencies for both the technology and the supernatural, and it's just a matter of time before the player has to say goodbye to everyone.
 
 * Gag: A comedy relief character realizes their own fourth-wall-breaking jokes are actually true.
+
+
+### Branching structure
+
+1a - 2a: Early choice in episode 2.
+1a - 2b: Early choice in episode 2.
+1a - 2c: Forced if Mick shows odd behavior to Marty or Bruce.
+
+All of these are forced depending on Mick's episode 2 behavior.
+2a - 3a
+2a - 3b
+2a - 3c
+2a - 3d
+2b - 3a
+2b - 3b
+2b - 3c
+2b - 3d
+2c - 3a
+2c - 3b
+2c - 3c
+2c - 3d
+
+3a - 4a: Forced if Mick chooses to explore the Mikkamon Company.
+3a - 4b
+3a - 4c
+3b - 4a: Forced if Mick disobeys future-Marty and gets himself captured.
+3b - 4b
+3b - 4c
+3c - 4a: Forced if Mick does a good job defending the Mikkamon company.
+3c - 4b: Forced if Mick does a bad job defending the Mikkamon company.
+3c - 4c: Forced if Mick abuses his fourth-wall-breaking powers while commanding his cronies.
+3d - 4a
+3d - 4b: Impossible.
+3d - 4c: Forced if Mick rallies people to form his own cult.
