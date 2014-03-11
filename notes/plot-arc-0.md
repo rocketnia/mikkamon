@@ -61,6 +61,7 @@ Within each episode will be a similar branching structure, probably up to three 
 
 ### Branching structure
 
+```
 1a - 2a: Early choice in episode 2.
 1a - 2b: Early choice in episode 2.
 1a - 2c: Forced if Mick shows odd behavior to Marty or Bruce.
@@ -91,3 +92,4 @@ All of these are forced depending on Mick's episode 2 behavior. (Each episode 2 
 3d - 4a
 3d - 4b: Impossible.
 3d - 4c: Forced if Mick rallies people to form his own cult.
+```
