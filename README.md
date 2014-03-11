@@ -27,9 +27,15 @@ is a lighted powder keg of goofballs.
 The point
 ---------
 
-I find it embarrassing to have a section like this because I'm just
-putting all my author intent out in the open, rather than telling it
-through the story itself. That said...
+Since this is a project in development, **turn back now** if you don't
+want to see **spoilers** or if you don't want to know the **author's
+intent**.
+
+.
+
+.
+
+.
 
 I have several goals for Mikkamon:
 
@@ -44,16 +50,35 @@ I have several goals for Mikkamon:
 * Establish a very thin fourth wall, so that the interactivity itself
   is acknowledged and exploited for drama in the story.
 
-* Lightly explore philosophical themes revolving around:
+* Lightheartedly explore philosophical themes revolving around:
 
-** What people do when only certain people have enormous power.
+  * What people do when only certain people have enormous power.
 
-** What people do when everyone has enormous power.
+  * What people do when everyone has enormous power.
 
-** Ethics of fiction, from the point of view of fictional characters.
+  * Ethics of fiction, from the point of view of fictional characters.
 
-** The importance and/or folly of making one's dreams come true.
+  * The importance and/or folly of making one's dreams come true.
 
 * Actually write something. (I'm not usually a writer; I'm a
   programmer.)
 
+I have fun imagining the possible ways a story can play out. But when
+it comes time to write a play-by-play of what happens, I usually get
+bogged down pretty quickly. I'm not always sure why, but now I have
+some hypotheses:
+
+* Perhaps I don't have a good picture of the story pacing. I may know
+  where I want the plot to go, but if I'm in the thick of play-by-play
+  narration, I don't know how fast I'm supposed to get there or
+  whether I have time to indulge in fun scenes or side-plots.
+* Perhaps I get bored with how serious my story is. (I get bored with
+  with other people's serious stories all the time, so it's only
+  fair.)
+* Perhaps I don't have a place I can quickly jot down ideas as I have
+  them.
+
+So this GitHub repository is an experiment: I'm giving myself an
+always-available notebook with a disciplined hierarchical outline. As
+I go along, I'm going to annotate the outline with specific gags so I
+don't lose sight of the humor that keeps me motivated.
