@@ -80,6 +80,7 @@ All of these are forced depending on Mick's episode 2 behavior. (Each episode 2 
 2c - 3c
 2c - 3d
 
+TODO: Explain the remaining unexplained transitions.
 3a - 4a: Forced if Mick tries to infiltrate the Mikkamon company.
 3a - 4b
 3a - 4c
