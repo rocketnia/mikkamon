@@ -80,16 +80,16 @@ All of these are forced depending on Mick's episode 2 behavior. (Each episode 2 
 2c - 3c
 2c - 3d
 
-3a - 4a: Forced if Mick chooses to explore the Mikkamon Company.
+3a - 4a: Forced if Mick tries to infiltrate the Mikkamon company.
 3a - 4b
 3a - 4c
 3b - 4a: Forced if Mick disobeys future-Marty and gets himself captured.
-3b - 4b
+3b - 4b: Forced if Mick follows through on future-Marty's plan.
 3b - 4c
-3c - 4a: Forced if Mick does a good job defending the Mikkamon company.
+3c - 4a: Forced if Mick does a good job defending the Mikkamon company or uses his access to investigate it.
 3c - 4b: Forced if Mick does a poor job defending the Mikkamon company.
 3c - 4c: Forced if Mick abuses his fourth-wall-breaking powers while commanding his cronies.
-3d - 4a
+3d - 4a: Forced if Mick leads himself into a trap.
 3d - 4b: Impossible.
 3d - 4c: Forced if Mick rallies people to form his own cult.
 ```
